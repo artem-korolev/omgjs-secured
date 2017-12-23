@@ -49,8 +49,12 @@ helps me to understands declarative code
 
 ## \<Secured />
 
+need to figure out how to show pictures on NPM www page. check GitHub repo to see those pictures ;)
+
 ![Secured](doc/secured.png)
 
 ## \<Logout />
+
+check GitHub repo to see diagram picture
 
 ![Secured](doc/logout.png)
