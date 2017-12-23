@@ -40,6 +40,8 @@ Authentication goes to http://localhost:8080/. This is default Spring Boot appli
 - documentation about how to override default actions
 - documentation about how to use use built in LoginForm/LoginPage on your own route path. How to override final actions and so
 - create diagrams explaining asyncronous processes inside the module
+- add support for different authentication providers
+- add support for authirization (different authorizatoin providers?)
 
 # Activity diagrams
 
