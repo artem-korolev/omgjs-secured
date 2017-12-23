@@ -45,10 +45,10 @@ Authentication goes to http://localhost:8080/. This is default Spring Boot appli
 
 helps me to understands declarative code
 
-## \<Secured>
+## \<Secured />
 
 ![Secured](doc/secured.png)
 
-## \<Logout>
+## \<Logout />
 
 ![Secured](doc/logout.png)
